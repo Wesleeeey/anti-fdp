@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "discord.js-selfbot-v13": "^2.3.41",
+    "quick.db": "^7.1.3"
+  }
+}
